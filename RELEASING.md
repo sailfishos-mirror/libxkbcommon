@@ -61,6 +61,9 @@ git commit: <git commit sha>
   It may be necessary to use another version of Doxygen to get a clean build.
   Building from source using the main branch is also a good option.
 
+- [ ] Apply manual Doxygen fixes:
+  - [ ] Fix labels of the TOC in the “Release notes” page.
+
 - [ ] Update the `current` symlink: `ln -nsrf doc/<MAJOR.MINOR.PATCH> doc/current`.
 
 - [ ] Grab a link to the announcement mail from the [wayland-devel archives](https://lists.freedesktop.org/archives/wayland-devel/).
